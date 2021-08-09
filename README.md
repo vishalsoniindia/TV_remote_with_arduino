@@ -14,7 +14,7 @@ hackster :- https://www.hackster.io/Vishalsoniindia/how-to-interface-tv-remote-w
 
 ________________________________________________
 
-[![alt text](https://img.youtube.com/vi/sbibULLqFUk/0.jpg)](https://youtu.be/sbibULLqFUk)
+[![alt text](https://img.youtube.com/vi/qTOM1vGX0V0/0.jpg)](https://youtu.be/qTOM1vGX0V0)
 
 ![alt text](https://github.com/vishalsoniindia/TV_remote_with_arduino/blob/main/Glorious%20Migelo.png)
 
